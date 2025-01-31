@@ -1,4 +1,3 @@
-# CTF-tools
 # CTF Tools
 
 A collection of tools and scripts to assist with Capture The Flag (CTF) challenges. This repository includes utilities for various CTF categories such as cryptography, reverse engineering, forensics, web exploitation, and more.
