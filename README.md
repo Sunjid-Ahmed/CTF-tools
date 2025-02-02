@@ -15,7 +15,7 @@ A collection of tools and scripts to assist with Capture The Flag (CTF) challeng
 To use these tools, clone the repository and ensure you have the necessary dependencies installed.
 
 ```sh
-git clone https://github.com/yourusername/ctf-tools.git
+git clone https://github.com/Sunjid-Ahmed/ctf-tools.git
 cd ctf-tools
 pip install -r requirements.txt  # If applicable
 ```
